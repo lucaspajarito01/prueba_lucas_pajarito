@@ -1,0 +1,20 @@
+{
+  "name": "hiring_system_postulate",
+  "version": "1.0.0",
+  "description": "Sistema de analisis y contratación",
+  "keywords": [
+    "NodeJS"
+  ],
+  "license": "ISC",
+  "author": "LucasPajarito",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "inquire": "^0.4.8",
+    "mysql2": "^3.24.5",
+    "require": "^2.4.20"
+  }
+}
